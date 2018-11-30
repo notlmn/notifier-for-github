@@ -18,6 +18,7 @@ h3 {
 }
 
 #notifications-permission-error {
+	display: none;
 	color: #f44336;
 }
 
